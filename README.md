@@ -5,9 +5,15 @@ In this project, we developed a comprehensive log classification system that syn
 
 ---
 
+## Project Demo
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://romin-log-lens.streamlit.app)
+
+
+---
+
 ## 🧪 1. Generating Synthetic Data
 
-To simulate real-world scenarios without compromising privacy, we utilized synthetic data generation techniques. Tools like `ydata-synthetic` offer robust solutions for creating realistic synthetic datasets, facilitating experimentation and model development without the need for sensitive information. ([ydata.ai][1])
+To simulate real-world scenarios without compromising privacy, we utilized synthetic data generation techniques. Tools like `ydata-synthetic` offer robust solutions for creating realistic synthetic datasets, facilitating experimentation and model development without the need for sensitive information.
 
 ---
 
@@ -91,7 +97,7 @@ To make our model accessible and interactive, we developed a web application usi
 
 2. **Select Model**: Choose the preferred machine learning model from the available options.
 
-3. **Make Predictions**: The app processes the data and outputs predictions.([Streamlit][7])
+3. **Make Predictions**: The app processes the data and outputs predictions.
 
 4. **Download Results**: Users can download the predictions for further analysis or reporting.
 

@@ -1,0 +1,74 @@
+timestamp,log_message,target_label
+6/27/2025 7:20,"nova.osapi_compute.wsgi.server [req-b9718cd8-f65e-49cc-8349-6cf7122af137 113d3a99c3da401fbd62cc2caa5b96d2 54fadb412c4e40cdbaed9335e4c35a9e - - -] 10.11.10.1 ""GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1"" status: 200 len: 1893 time: 0.2675118",HTTP Status
+1/14/2025 23:07,Email service experiencing issues with sending,Critical Error
+1/17/2025 1:29,Unauthorized access to data was attempted,Security Alert
+7/12/2025 0:24,"nova.osapi_compute.wsgi.server [req-4895c258-b2f8-488f-a2a3-4fae63982e48 113d3a99c3da401fbd62cc2caa5b96d2 54fadb412c4e40cdbaed9335e4c35a9e - - -] 10.11.10.1 ""GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1"" HTTP status code -  200 len: 211 time: 0.0968180",HTTP Status
+3/1/2025 19:14,Shard 6 replication task ended in failure,Error
+10/11/2025 8:44,File data_6169.csv uploaded successfully by user User953.,System Notification
+2/12/2025 10:42,"nova.compute.claims [req-a07ac654-8e81-416d-bfbb-189116b07969 113d3a99c3da401fbd62cc2caa5b96d2 54fadb412c4e40cdbaed9335e4c35a9e - - -] [instance: bf8c824d-f099-4433-a41e-e3da7578262e] Total memory: 64172 MB, used: 512.00 MB",Resource Usage
+8/9/2025 18:58,Email server encountered a sending fault,Error
+6/15/2025 11:44,Critical system unit error: unit ID Component55,Critical Error
+8/4/2025 19:57,Multiple bad login attempts detected on user 8538 account,Security Alert
+1/4/2025 1:43,File data_3847.csv uploaded successfully by user User175.,System Notification
+5/1/2025 9:41,Backup completed successfully.,System Notification
+8/28/2025 3:54,nova.compute.resource_tracker [req-addc1839-2ed5-4778-b57e-5854eb7b8b09 - - - - -] Final resource view: name=cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us phys_ram=64172MB used_ram=512MB phys_disk=15GB used_disk=0GB total_vcpus=16 used_vcpus=0 pci_stats=[],Resource Usage
+3/3/2025 17:11,"nova.compute.claims [req-d6986b54-3735-4a42-9074-0ba7d9717de9 113d3a99c3da401fbd62cc2caa5b96d2 54fadb412c4e40cdbaed9335e4c35a9e - - -] [instance: af5f7392-f7d4-4298-b647-c98924c64aa1] memory limit: 96258.00 MB, free: 95746.00 MB",Resource Usage
+3/10/2025 23:11,Alert: brute force login attempt from 192.168.80.114 detected,Security Alert
+4/26/2025 7:54,Backup started at 2025-05-14 07:06:55.,System Notification
+5/29/2025 7:36,Detection of multiple disk faults in RAID setup,Critical Error
+9/30/2025 8:13,Suspicious login activity detected from 192.168.24.250,Security Alert
+6/22/2025 0:22,System component malfunction: component ID Component79,Critical Error
+11/19/2025 13:14,System reboot initiated by user User243.,System Notification
+8/19/2025 16:43,Denied access attempt on restricted account Account2682,Security Alert
+6/19/2025 21:42,"nova.compute.claims [req-72b4858f-049e-49e1-b31e-b562c5018eaf 113d3a99c3da401fbd62cc2caa5b96d2 54fadb412c4e40cdbaed9335e4c35a9e - - -] [instance: 63a0d960-70b6-44c6-b606-491478a5cadf] disk limit not specified, defaulting to unlimited",Resource Usage
+4/1/2025 16:42,Boot process terminated unexpectedly due to kernel issue,Critical Error
+11/22/2025 11:06,"Abnormal system behavior on server 40, potential security breach",Security Alert
+6/20/2025 0:53,Backup started at 2025-02-15 20:00:19.,System Notification
+5/22/2025 3:17,Data replication task for shard 14 did not complete,Error
+1/14/2025 4:46,User 7662 tried to bypass API security measures,Security Alert
+7/1/2025 9:43,File data_7366.csv uploaded successfully by user User282.,System Notification
+1/16/2025 21:45,System updated to version 3.9.1.,System Notification
+8/19/2025 5:58,Server 4 restarted without warning during data migration,Error
+11/12/2025 13:13,Backup completed successfully.,System Notification
+7/29/2025 0:17,Multiple login failures occurred on user 9052 account,Security Alert
+2/19/2025 2:00,Backup completed successfully.,System Notification
+6/18/2025 11:21,Server 34 crashed unexpectedly while syncing data,Error
+9/13/2025 14:45,"nova.compute.claims [req-5c8f52bd-8e3c-41f0-95a5-7861d247cafa 113d3a99c3da401fbd62cc2caa5b96d2 54fadb412c4e40cdbaed9335e4c35a9e - - -] [instance: d96a117b-0193-4549-bdcc-63b917273d1d] vcpu limit not specified, defaulting to unlimited",Resource Usage
+4/27/2025 11:18,"nova.compute.claims [req-d38f479d-9bb9-4276-9688-52607e8fd350 113d3a99c3da401fbd62cc2caa5b96d2 54fadb412c4e40cdbaed9335e4c35a9e - - -] [instance: 95960536-049b-41f6-9049-05fc479b6a7c] disk limit not specified, defaulting to unlimited",Resource Usage
+1/19/2025 13:55,System configuration is no longer valid,Critical Error
+6/20/2025 23:40,"nova.compute.claims [req-d82fab16-60f8-4c9f-bde8-f362f57bdd40 113d3a99c3da401fbd62cc2caa5b96d2 54fadb412c4e40cdbaed9335e4c35a9e - - -] [instance: ae3a1b5d-eec1-45bb-b76a-c59d83b1471f] memory limit: 96258.00 MB, free: 95746.00 MB",Resource Usage
+5/12/2025 2:50,Unauthorized login attempt on protected account Account5030,Security Alert
+3/7/2025 2:30,RAID array suffered multiple hard drive failures,Critical Error
+2/3/2025 5:35,User 7153 made multiple incorrect login attempts,Security Alert
+5/9/2025 21:18,User 8300 made multiple incorrect login attempts,Security Alert
+1/4/2025 22:41,Privilege elevation detected for user 5038,Security Alert
+5/3/2025 13:39,Key system element crashed: element ID Component32,Critical Error
+5/11/2025 7:56,Attempt to access account Account3142 was not authorized,Security Alert
+1/26/2025 8:48,Backup completed successfully.,System Notification
+7/2/2025 11:40,nova.compute.resource_tracker [req-addc1839-2ed5-4778-b57e-5854eb7b8b09 - - - - -] Final resource view: name=cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us phys_ram=64172MB used_ram=2560MB phys_disk=15GB used_disk=20GB total_vcpus=16 used_vcpus=1 pci_stats=[],Resource Usage
+2/9/2025 15:09,Backup completed successfully.,System Notification
+8/6/2025 17:41,API intrusion detection system flagged user 6771,Security Alert
+12/4/2025 21:20,System reboot initiated by user User471.,System Notification
+4/4/2025 0:55,Critical system crash occurred in core application,Critical Error
+10/19/2025 17:15,Detection of admin privilege misuse by user 1449,Security Alert
+12/7/2025 10:38,Disk cleanup completed successfully.,System Notification
+11/1/2025 12:05,"Server 40 is under potential security threat, review necessary",Security Alert
+12/7/2025 8:23,Data replication task failed for shard 17,Error
+8/16/2025 8:55,Backup completed successfully.,System Notification
+7/3/2025 3:29,"Abnormal behavior found on server 10, possible security threat",Security Alert
+12/1/2025 20:10,RAID array experienced multiple disk crashes,Critical Error
+6/26/2025 16:19,Replication of data to shard 14 failed,Error
+12/30/2025 9:41,System configuration has been compromised entirely,Critical Error
+3/4/2025 21:15,Backup ended at 2025-08-08 13:06:23.,System Notification
+2/3/2025 6:35,"nova.compute.claims [req-868a5460-dbb6-416b-b4c4-a98abae6c847 113d3a99c3da401fbd62cc2caa5b96d2 54fadb412c4e40cdbaed9335e4c35a9e - - -] [instance: 17288ea8-cbf4-4f0e-94fe-853fd2735f29] Total vcpu: 16 VCPU, used: 0.00 VCPU",Resource Usage
+3/1/2025 0:05,Unexpected server 46 stoppage occurred during data conversion,Error
+7/25/2025 9:01,"nova.compute.resource_tracker [req-addc1839-2ed5-4778-b57e-5854eb7b8b09 - - - - -] Total usable vcpus: 16, total allocated vcpus: 0",Resource Usage
+8/26/2025 11:40,Server 46 restarted without warning during data migration,Error
+3/6/2025 2:08,Data replication task for shard 6 did not complete,Error
+1/22/2025 5:45,Mail service encountered a delivery glitch,Error
+6/15/2025 16:15,Shard 1 data copy failed,Error
+11/14/2025 1:04,Abnormal shutdown of server 6 happened during data transfer,Error
+2/2/2025 1:35,Data replication for shard 13 encountered an issue,Error
+6/19/2025 3:42,Shard 8 synchronization task failed,Error
+3/30/2025 23:53,Email system had a problem sending emails,Error
+6/19/2025 3:03,Server 31 underwent an unplanned restart during data download,Error

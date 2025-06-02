@@ -16,7 +16,8 @@ In this project, we developed a comprehensive log classification system that syn
 
 Expect some delay in loading the app is it is deployed on free cloud and probably is in  `Sleep Mode`
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://romin-log-lens.streamlit.app)
-
+> [!NOTE]
+> Open this while you are on a private network, streamlit cloud sometimes gives hard time accessing apps
   
   
 
